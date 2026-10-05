@@ -1,0 +1,24 @@
+{
+  "name": "@codewarstools/codewars-api-schemas",
+  "version": "1.0.0",
+  "description": "JSON Schemas for Codewars API",
+  "type": "module",
+  "files": [
+    "schemas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodewarsTools/codewars-api-schemas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodewarsTools/codewars-api-schemas/issues"
+  },
+  "homepage": "https://github.com/CodewarsTools/codewars-api-schemas",
+  "keywords": [
+    "codewars",
+    "api",
+    "json-schema",
+    "schemas"
+  ],
+  "license": "MIT"
+}
