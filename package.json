@@ -1,6 +1,6 @@
 {
   "name": "@codewarstools/codewars-api-schemas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON Schemas for Codewars API",
   "type": "module",
   "files": [
